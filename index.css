@@ -1,0 +1,91 @@
+.Title {
+ color: rgb(131, 237, 131);
+ background-color: black;
+ text-align: center;
+ border: solid;
+ border-radius: 30px;
+ border-color: white;
+ font-family: "Press Start 2P";
+ font-size: 30px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+.GAMES {
+ color:blue;
+ background-color: red;
+ text-align: center;
+}
+.Body {
+ background-color: black;
+}
+.GAMES {
+ color: white;
+ background-color: blue;
+ border-color: white;
+ border-width: 8px;
+ border-radius: 20px;
+ padding-top:20px;
+ padding-bottom: 20px;
+ padding-left: 275px;
+ padding-right: 275px;
+ font-size: 25px;
+ border: solid;
+ margin-left: 40px;
+}
+.MANGA {
+ margin-left:50px;
+ margin-right: auto;
+ color: white;
+ background-color: blue;
+ border-color: white;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-right: 275px;
+ padding-left: 275px;
+ font-size: 25px;
+ border-width: 8px;
+ border-radius: 20px;
+ border: solid;
+}
+.BOOKS {
+ color: white;
+ background-color: blue;
+ border-color: white;
+ border-width: 8px;
+ border-radius: 20px;
+ padding-top:20px;
+ padding-bottom: 20px;
+ padding-left: 275px;
+ padding-right: 275px;
+ font-size: 25px;
+ border: solid;
+ margin-left: 40px;
+ margin-top: 20px;
+}
+.MUSIC {
+ margin-left:50px;
+ margin-right: auto;
+ color: white;
+ background-color: blue;
+ border-color: white;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-right: 290px;
+ padding-left: 275px;
+ font-size: 25px;
+ border-width: 8px;
+ border-radius: 20px;
+ border: solid;
+}
+.Final-Text {
+ color: white;
+ text-align: center;
+ margin-top: 150px;
+ font-family: "Black Ops One"
+}
+.img-center {
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: 50px
+}
